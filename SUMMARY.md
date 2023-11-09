@@ -22,4 +22,3 @@
 ## Collaborating
 
 * [➡ How we Work Together](collaborating/how-we-work-together.md)
-* [➡ Meetings](collaborating/meetings.md)
