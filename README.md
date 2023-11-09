@@ -17,7 +17,7 @@ For **long-time team members**, this space will act as a reminder and allow you 
 
 <summary>How to join us?</summary>
 
-This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! And achive your goals and dreams together. Apply Here!
+This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! And achive your goals and dreams together. [**Apply Here!**](collaborating/how-we-work-together.md#how-to-apply)
 
 </details>
 
