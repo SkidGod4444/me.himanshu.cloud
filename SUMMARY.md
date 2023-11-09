@@ -1,17 +1,17 @@
 # Table of contents
 
-* [🤝 Welcome!](README.md)
+* [🤝 WELCOME!](README.md)
 
 ## About me
 
-* [➡ Vision, Mission & Focus](about-me/vision-mission-and-focus/README.md)
-  * [Vision](about-me/vision-mission-and-focus/vision.md)
-  * [Mission](about-me/vision-mission-and-focus/mission.md)
-  * [Focus](about-me/vision-mission-and-focus/focus.md)
+* [➡ VISION, MISSION& FOCUS!](about-me/vision-mission-and-focus/README.md)
+  * [VISION](about-me/vision-mission-and-focus/vision.md)
+  * [MISSION](about-me/vision-mission-and-focus/mission.md)
+  * [FOCUS](about-me/vision-mission-and-focus/focus.md)
 
 ## Team
 
-* [➡ Meet the Team!](team/meet-the-team.md)
+* [➡ OUR TEAM!](team/our-team.md)
 
 ## Work
 
@@ -21,4 +21,4 @@
 
 ## Collaborating
 
-* [➡ How we Work Together](collaborating/how-we-work-together.md)
+* [➡ HOW WE WORK!](collaborating/how-we-work.md)

@@ -3,7 +3,7 @@ cover: .gitbook/assets/saidev.official (1).png
 coverY: 0
 ---
 
-# 🤝 Welcome!
+# 🤝 WELCOME!
 
 {% hint style="info" %}
 **About this guy:** With a keen eye for code and a wicked sense of humor, Saidev is the ultimate coding whiz, creating bots for Discord that are both efficient and hilarious.
@@ -17,7 +17,7 @@ For **long-time team members**, this space will act as a reminder and allow you 
 
 <summary>How to join us?</summary>
 
-This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! And achive your goals and dreams together. [**Apply Here!**](collaborating/how-we-work-together.md#how-to-apply)
+This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! And achive your goals and dreams together. [**Apply Here!**](collaborating/how-we-work.md#how-to-apply)
 
 </details>
 
